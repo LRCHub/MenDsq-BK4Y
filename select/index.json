@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "傀儡阿修羅",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-31T01:10:45.021548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傀儡阿修羅",
+      "artist": "柊マグネタイト, 星界",
+      "has_synced": false,
+      "path": "select/pl_01_傀儡阿修羅_柊マグネタイト,_星界.txt"
+    }
+  ]
+}
